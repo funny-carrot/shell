@@ -19,7 +19,7 @@ nano file3.txt
 Hello world
 ^X
 # 5. Verify that file3 contains the words "hello world" by printing the contents of the file in the terminal
-
+cat file3.txt
 # 6. Delete file4
 
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
